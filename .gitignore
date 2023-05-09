@@ -1,0 +1,6 @@
+venv
+runtime_data
+conf.env
+meetings.db
+__pycache__
+.vscode
